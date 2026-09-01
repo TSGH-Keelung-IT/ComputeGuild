@@ -2,6 +2,8 @@
 
 Windows 專用的 Codex 桌面使用量面板，以像素冒險者公會呈現每週／5 小時行動力、帳號剩餘 Credits、今日 Token 與進行中的任務。
 
+面板會直接讀取本機 Codex 資料，不需要另外安裝或啟動 Codex 使用儀表板。
+
 ![ComputeGuild 預覽](preview.jpg)
 
 ## 系統需求
@@ -41,7 +43,7 @@ codex plugin add codex-usage-companion@compute-guild
 若希望面板在意外關閉後自動恢復，請以一般使用者身分執行：
 
 ```powershell
-& "$env:USERPROFILE\.codex\plugins\cache\compute-guild\codex-usage-companion\0.5.11\scripts\install-recovery.ps1"
+& "$env:USERPROFILE\.codex\plugins\cache\compute-guild\codex-usage-companion\0.5.12\scripts\install-recovery.ps1"
 ```
 
 不同 Codex 版本的快取路徑可能不同；也可以在已安裝外掛目錄內直接執行 `scripts\install-recovery.ps1`。
