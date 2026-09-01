@@ -43,7 +43,7 @@ codex plugin add codex-usage-companion@compute-guild
 若希望面板在意外關閉後自動恢復，請以一般使用者身分執行：
 
 ```powershell
-& "$env:USERPROFILE\.codex\plugins\cache\compute-guild\codex-usage-companion\0.5.14\scripts\install-recovery.ps1"
+& "$env:USERPROFILE\.codex\plugins\cache\compute-guild\codex-usage-companion\0.5.15\scripts\install-recovery.ps1"
 ```
 
 不同 Codex 版本的快取路徑可能不同；也可以在已安裝外掛目錄內直接執行 `scripts\install-recovery.ps1`。
