@@ -37,13 +37,14 @@ codex plugin add codex-usage-companion@compute-guild
 - 「今日採集」顯示本機今日 Token，並估算 Credits。
 - 「選項」可切換顯示風格與選擇 1～3 名角色。
 - 場景會依本機時間切換日夜；角色狀態會隨剩餘行動力變化。
+- 執行中的任務會顯示對應職業場景，以及工頭敲地磚的動畫。
 
 ## 選用：自動恢復面板
 
 若希望面板在意外關閉後自動恢復，請以一般使用者身分執行：
 
 ```powershell
-& "$env:USERPROFILE\.codex\plugins\cache\compute-guild\codex-usage-companion\0.5.18\scripts\install-recovery.ps1"
+& "$env:USERPROFILE\.codex\plugins\cache\compute-guild\codex-usage-companion\0.5.19\scripts\install-recovery.ps1"
 ```
 
 不同 Codex 版本的快取路徑可能不同；也可以在已安裝外掛目錄內直接執行 `scripts\install-recovery.ps1`。
