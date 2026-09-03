@@ -28,6 +28,8 @@ codex plugin add codex-usage-companion@compute-guild
 3. 開啟 3 個掛勾的切換鈕。
 4. 建立新的 task 並送出一則訊息，面板即會啟動。
 
+首次啟動時，工具會自動在目前使用者的桌面建立「Codex 冒險者公會」捷徑，並套用圓形盜賊圖示。往後可直接雙擊捷徑啟動。
+
 若第一次未顯示，請完全關閉並重新開啟 Codex Desktop，再建立新的 task。
 
 ## 使用方式
@@ -44,7 +46,7 @@ codex plugin add codex-usage-companion@compute-guild
 若希望面板在意外關閉後自動恢復，請以一般使用者身分執行：
 
 ```powershell
-& "$env:USERPROFILE\.codex\plugins\cache\compute-guild\codex-usage-companion\0.5.22\scripts\install-recovery.ps1"
+& "$env:USERPROFILE\.codex\plugins\cache\compute-guild\codex-usage-companion\0.5.23\scripts\install-recovery.ps1"
 ```
 
 不同 Codex 版本的快取路徑可能不同；也可以在已安裝外掛目錄內直接執行 `scripts\install-recovery.ps1`。
