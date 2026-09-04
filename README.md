@@ -2,7 +2,7 @@
 
 Windows 專用的 Codex 桌面使用量面板，以像素冒險者公會呈現每週／5 小時行動力、帳號剩餘 Credits、今日 Token 與進行中的任務。
 
-面板會直接讀取本機 Codex 資料，不需要另外安裝或啟動 Codex 使用儀表板。
+面板會直接讀取本機 Codex 資料，不需要另外安裝或啟動 Codex 使用儀表板，介面包含「遊戲風格」及「基礎風格」
 
 <p align="center">
   <a href="preview.jpg"><img src="preview.jpg" alt="ComputeGuild 完整介面預覽" width="260"></a>
