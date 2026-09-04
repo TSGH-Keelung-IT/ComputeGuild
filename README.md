@@ -11,7 +11,9 @@ Windows 專用的 Codex 桌面使用量面板，以像素冒險者公會呈現�
     </td>
     <td valign="top">
       <a href="preview2.jpg"><img src="preview2.jpg" alt="ComputeGuild 任務完成寶箱預覽" width="308"></a><br>
-      <a href="preview3.jpg"><img src="preview3.jpg" alt="ComputeGuild 簡易版介面預覽" width="308"></a>
+      <div align="center">
+        <a href="preview3.jpg"><img src="preview3.jpg" alt="ComputeGuild 簡易版介面預覽" height="255"></a>
+      </div>
     </td>
   </tr>
 </table>
