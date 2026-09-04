@@ -4,11 +4,17 @@ Windows 專用的 Codex 桌面使用量面板，以像素冒險者公會呈現�
 
 面板會直接讀取本機 Codex 資料，不需要另外安裝或啟動 Codex 使用儀表板，介面包含「遊戲風格」及「基礎風格」
 
-<p align="center">
-  <a href="preview.jpg"><img src="preview.jpg" alt="ComputeGuild 完整介面預覽" width="260"></a>
-  <a href="preview2.jpg"><img src="preview2.jpg" alt="ComputeGuild 任務完成寶箱預覽" width="260"></a>
-  <a href="preview3.jpg"><img src="preview3.jpg" alt="ComputeGuild 簡易版介面預覽" width="260"></a>
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <a href="preview.jpg"><img src="preview.jpg" alt="ComputeGuild 完整介面預覽" width="320"></a>
+    </td>
+    <td valign="top">
+      <a href="preview2.jpg"><img src="preview2.jpg" alt="ComputeGuild 任務完成寶箱預覽" width="308"></a><br>
+      <a href="preview3.jpg"><img src="preview3.jpg" alt="ComputeGuild 簡易版介面預覽" width="308"></a>
+    </td>
+  </tr>
+</table>
 
 ## 系統需求
 
