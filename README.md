@@ -1,85 +1,17 @@
-# ComputeGuild
+# Codex 冒險者公會
 
-Windows 專用的 Codex 桌面使用量面板，以像素冒險者公會呈現每週／5 小時行動力、帳號剩餘 Credits、今日 Token 與進行中的任務。
-
-面板會直接讀取本機 Codex 資料，不需要另外安裝或啟動 Codex 使用儀表板，介面包含「遊戲風格」及「基礎風格」。
-
-<table align="center">
-  <tr>
-    <td valign="top">
-      <a href="preview.jpg"><img src="preview.jpg" alt="ComputeGuild 完整介面預覽" width="330"></a>
-    </td>
-    <td valign="top">
-      <a href="preview2.jpg"><img src="preview2.jpg" alt="ComputeGuild 任務完成寶箱預覽" width="308"></a><br>
-      <div align="center">
-        <a href="preview3.jpg"><img src="preview3.jpg" alt="ComputeGuild 簡易版介面預覽" width="308"></a>
-      </div>
-    </td>
-  </tr>
-</table>
+**[下載 Windows 安裝檔](https://github.com/TSGH-Keelung-IT/ComputeGuild/releases/latest/download/ComputeGuild-Setup-x64.exe)**
 
 ## 系統需求
 
-- Windows 10 或 Windows 11（x64）
-- 已安裝並登入 Codex Desktop
-- 可使用 `codex` 命令列
+- Windows 10／11（64 位元）。
+- 已安裝並登入 Codex 桌面程式。
 
 ## 安裝
 
-在 PowerShell 依序執行：
+1. 下載 **ComputeGuild-Setup-x64.exe**。
+2. 若舊版程式正在執行，請先關閉。
+3. 雙擊安裝檔，依畫面完成安裝。
+4. 開啟 Codex，再雙擊桌面「Codex 冒險者公會」。
 
-```powershell
-codex plugin marketplace add TSGH-Keelung-IT/ComputeGuild
-codex plugin add codex-usage-companion@compute-guild
-```
-
-接著在 Codex：
-
-1. 開啟「外掛程式」→「掛勾」。
-2. 找到 ComputeGuild，檢閱並信任 3 個掛勾。
-3. 開啟 3 個掛勾的切換鈕。
-4. 建立新的 task 並送出一則訊息，面板即會啟動。
-
-首次啟動時，工具會自動在目前使用者的桌面建立「Codex 冒險者公會」捷徑，並套用圓形盜賊圖示。往後可直接雙擊捷徑啟動。
-
-若第一次未顯示，請完全關閉並重新開啟 Codex Desktop，再建立新的 task。
-
-## 使用方式
-
-- 「每週行動力」可切換每週與 5 小時使用狀態。
-- 「公會總資產」顯示帳號剩餘 Credits。
-- 「今日採集」顯示本機今日 Token，並估算 Credits。
-- 「選項」可切換顯示風格與選擇 1～3 名角色。
-- 場景會依本機時間切換日夜；角色狀態會隨剩餘行動力變化。
-- 執行中的任務會顯示對應職業場景，以及工頭敲地磚的動畫。
-
-## 選用：自動恢復面板
-
-若希望面板在意外關閉後自動恢復，請以一般使用者身分執行：
-
-```powershell
-& "$env:USERPROFILE\.codex\plugins\cache\compute-guild\codex-usage-companion\0.5.39\scripts\install-recovery.ps1"
-```
-
-不同 Codex 版本的快取路徑可能不同；也可以在已安裝外掛目錄內直接執行 `scripts\install-recovery.ps1`。
-
-移除恢復排程：
-
-```powershell
-& "<已安裝外掛目錄>\scripts\uninstall-recovery.ps1"
-```
-
-## 移除
-
-```powershell
-codex plugin remove codex-usage-companion
-codex plugin marketplace remove compute-guild
-```
-
-## 隱私
-
-ComputeGuild 僅在本機讀取 Codex 使用量與任務狀態，不含遙測、廣告或外部分析服務。詳見 [PRIVACY.md](PRIVACY.md)。
-
-## 授權與致謝
-
-本專案以 MIT License 發布，保留原作者 gkfriend 的授權聲明。完整條款見 [LICENSE](LICENSE)。
+不需另外安裝 .NET 或使用量儀表板。
