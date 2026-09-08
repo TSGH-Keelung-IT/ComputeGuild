@@ -2,6 +2,21 @@
 
 **[下載 Windows 安裝檔](https://github.com/TSGH-Keelung-IT/ComputeGuild/releases/latest/download/ComputeGuild-Setup-x64.exe)**
 
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <a href="preview.jpg"><img src="preview.jpg" alt="ComputeGuild 完整介面預覽" width="240"></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="preview2.jpg"><img src="preview2.jpg" alt="ComputeGuild 任務完成寶箱預覽" width="220"></a><br>
+      <a href="preview3.jpg"><img src="preview3.jpg" alt="ComputeGuild 簡易版介面預覽" width="220"></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="preview4.jpg"><img src="preview4.jpg" alt="ComputeGuild 冒險介面預覽" width="270"></a>
+    </td>
+  </tr>
+</table>
+
 ## 系統需求
 
 - Windows 10／11（64 位元）。
