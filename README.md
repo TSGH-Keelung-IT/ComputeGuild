@@ -11,14 +11,18 @@
       <a href="preview2.jpg"><img src="preview2.jpg" alt="ComputeGuild 任務完成寶箱預覽" width="220"></a><br>
       <a href="preview3.jpg"><img src="preview3.jpg" alt="ComputeGuild 簡易版介面預覽" width="220"></a>
     </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
     <td align="center" valign="top">
       <a href="preview4.jpg"><img src="preview4.jpg" alt="ComputeGuild 冒險介面預覽" width="270"></a>
     </td>
+    <td align="center" valign="top">
+      <a href="preview5.jpg"><img src="preview5.jpg" alt="ComputeGuild 鬼皇后待戰預覽" width="270"></a>
+    </td>
   </tr>
 </table>
-<p align="center">
-  <a href="preview5.jpg"><img src="preview5.jpg" alt="ComputeGuild 鬼皇后待戰預覽" width="270"></a>
-</p>
 
 
 ## 系統需求
