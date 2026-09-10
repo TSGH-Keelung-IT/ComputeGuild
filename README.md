@@ -1,5 +1,8 @@
 # Codex 冒險者公會
 
+以AI代理賦能開發工作流，打破傳統產能限制，驅動多元專案高效落地。
+點燃開發熱忱，驅動開發者積極實踐更多創新專案。
+
 **[下載 Windows 安裝檔](https://github.com/TSGH-Keelung-IT/ComputeGuild/releases/latest/download/ComputeGuild-Setup-x64.exe)**
 
 <table align="center">
