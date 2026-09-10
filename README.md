@@ -5,11 +5,11 @@
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <a href="preview.jpg"><img src="preview.jpg" alt="ComputeGuild 完整介面預覽" width="240"></a>
+      <a href="preview.jpg"><img src="preview.jpg" alt="ComputeGuild 完整介面預覽" width="280"></a>
     </td>
     <td align="center" valign="top">
-      <a href="preview2.jpg"><img src="preview2.jpg" alt="ComputeGuild 任務完成寶箱預覽" width="220"></a><br>
-      <a href="preview3.jpg"><img src="preview3.jpg" alt="ComputeGuild 簡易版介面預覽" width="220"></a>
+      <a href="preview2.jpg"><img src="preview2.jpg" alt="ComputeGuild 任務完成寶箱預覽" width="260"></a><br>
+      <a href="preview3.jpg"><img src="preview3.jpg" alt="ComputeGuild 簡易版介面預覽" width="260"></a>
     </td>
   </tr>
 </table>
