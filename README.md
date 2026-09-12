@@ -44,6 +44,6 @@
 
 ## 後續更新
 
-已安裝的使用者，之後一律使用 **[更新包](https://github.com/TSGH-Keelung-IT/ComputeGuild/releases/download/v0.5.40/ComputeGuild-Update-20260912-v0.5.43.zip)** 更新；完整安裝檔供首次安裝使用。
+已安裝的使用者，之後一律使用 **[更新包](https://github.com/TSGH-Keelung-IT/ComputeGuild/releases/download/v0.5.40/ComputeGuild-Update-20260912-v0.5.45.zip)** 更新；完整安裝檔供首次安裝使用。
 
 請先在遊戲中儲存並退出，再完全結束程式。將更新包完整解壓縮後，雙擊 **Apply-Update.cmd**，完成後以原本桌面捷徑開啟。角色存檔、遊戲進度與設定都會保留。
